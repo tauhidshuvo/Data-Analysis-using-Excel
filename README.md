@@ -96,6 +96,7 @@ Zone performance bar chart
 
 Monthly trend line comparisons
 #💼 Sales Performance & Profitability Analysis — by Tauhid Shuvo
+
 This project presents an in-depth analysis of a company's sales data to assess profit and loss (P&L), market performance vs target, and product-wise revenue across different regions, markets, and divisions.
 
 The goal is to transform raw transactional data into strategic insights using Excel and business intelligence techniques to support sales strategy, profitability, and regional performance tracking.
