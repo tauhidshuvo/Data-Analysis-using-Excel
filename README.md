@@ -158,18 +158,7 @@ P&L Summary Dashboard
 
 Product Revenue by Division
 
-Target vs Actual Line Chart
-
-Market Contribution Pie Chart
-
-Conditional Performance Heatmaps
-
-📷 Example (add these lines in your README if screenshots are added):
-
-markdown
-Copy
-Edit
-![P&L Dashboard](images/pnl-dashboard.png)
+![Dashboard Preview](Screenshot%202025-07-31%20234215.png)
 ![Target vs Actual](images/target-vs-actual.png)
 ![Region-wise Revenue](images/region-revenue-chart.png)
 🛠 Tools & Techniques Used
