@@ -14,7 +14,7 @@ To determine the overall test positivity rate
 
 To find the top 5 most affected areas
 
-[Dengue Dashboard](Dengu Data Analysis/Dengu Analysis Dashboard.png)
+![Data-Analysis-using-Excel](Dengu Data Analysis/Dengu Analysis Dashboard.png)
 
 
 
