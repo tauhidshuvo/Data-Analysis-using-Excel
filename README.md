@@ -159,16 +159,14 @@ P&L Summary Dashboard
 Product Revenue by Division
 
 ![Dashboard Preview](Screenshot%202025-07-31%20234215.png)
-![Target vs Actual](images/target-vs-actual.png)
-![Region-wise Revenue](images/region-revenue-chart.png)
+
+![Dashboard Preview](Screenshot%202025-07-31%20234349.png)
+
+![Dashboard Preview](Screenshot%202025-07-31%20234437.png)
 🛠 Tools & Techniques Used
 Microsoft Excel (Advanced)
 
 SUMIFS, INDEX-MATCH, IF, VLOOKUP, Pivot Tables, Conditional Formatting
-
-PowerPoint (for storytelling and summary)
-
-(Optional) Power BI for dashboard creation
 
 🔎 Insights & Outcomes
 Identified top-performing markets and product lines by revenue & profit
@@ -182,8 +180,10 @@ Suggested business actions based on data (e.g., increasing focus in Region X)
 🧑‍💼 Author
 Tauhid Shuvo
 Data Analyst | BI Developer | Excel & SQL Specialist
-📫 [Your Email / LinkedIn]
-🌐 Portfolio Website
+📫 [tauhidul12islam@gmail.com / LinkedIn: www.linkedin.com/in/
+Tauhidul Islam Shuvo
+]
+🌐 Portfolio Website :
 
 
 
