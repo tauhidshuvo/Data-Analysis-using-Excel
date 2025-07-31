@@ -16,7 +16,7 @@ To find the top 5 most affected areas
 
 ![Dengue Analysis Dashboard](Dengu%20Data%20Analysis/Dengu%20Analysis%20Dashboard.png)
 
-#🧾 Outlet Sales Analysis 2022–2023 — by Tauhid Shuvo
+# 🧾 Outlet Sales Analysis 2022–2023 — by Tauhid Shuvo
 This project presents a detailed outlet-wise sales analysis using Excel for the years 2022 and 2023, containing monthly sales data across Quantity and Value for multiple outlets and zones.
 
 The objective is to evaluate growth patterns, rank performances, and extract business insights using Excel formulas, pivot tables, charts, and trendlines. Final outputs were presented in both Excel and a PowerPoint deck.
@@ -95,7 +95,7 @@ Year-on-year growth visualizations
 Zone performance bar chart
 
 Monthly trend line comparisons
-#💼 Sales Performance & Profitability Analysis — by Tauhid Shuvo
+# 💼 Sales Performance & Profitability Analysis — by Tauhid Shuvo
 
 This project presents an in-depth analysis of a company's sales data to assess profit and loss (P&L), market performance vs target, and product-wise revenue across different regions, markets, and divisions.
 
